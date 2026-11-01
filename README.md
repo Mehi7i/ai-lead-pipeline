@@ -77,11 +77,3 @@ Send a POST request to the webhook URL that n8n gives you.
 | Groq        | Very fast free models      | https://console.groq.com     |
 | Telegram    | Completely free            | @BotFather                   |
 
-## How to sell this
-
-This is a real product you can sell on:
-- Upwork / Freelancer as "AI Lead Qualification System"
-- Fiverr as a gig
-- Directly to Iranian businesses (real estate, online shops, courses...)
-
-Price range that works: **$300 – $900** depending on customization.
